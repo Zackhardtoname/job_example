@@ -1,2 +1,2 @@
 print("Hello, Git!")
-a = 10
+a = 1
